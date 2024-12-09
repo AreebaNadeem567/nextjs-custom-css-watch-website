@@ -24,7 +24,7 @@ const About = () => {
               <p>
                 Watch World is your ultimate destination for premium watches,
                 offering a curated collection of timeless pieces. Whether
-                you`&lsquo;`,re looking for luxury, sports, or everyday wear, we have
+                you are looking for luxury, sports, or everyday wear, we have
                 something for every style. Explore our selection and find the
                 perfect watch to complement your life.
               </p>
